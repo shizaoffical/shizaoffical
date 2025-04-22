@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
 
-- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Next Js**
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **shizaasif710@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JmKLDQSqGKaikyYAPt62qauxlX58cTew/view?usp=sharing](https://drive.google.com/file/d/1JmKLDQSqGKaikyYAPt62qauxlX58cTew/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JmKLDQSqGKaikyYAPt62qauxlX58cTew/view?usp=sharing](https://drive.google.com/file/d/11O-sOeiPrnhBfrizQtUhJyz933JvL76H/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
