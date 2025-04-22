@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
 
-- 🔭 I’m currently working on **Technixus as a React js developer.**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Next Js**
 
