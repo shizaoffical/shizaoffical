@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiza Asif</h1>
 <h3 align="center">I’m a Full-Stack Web Developer with a passion for crafting scalable, user-friendly web applications.</h3>
+<img src="![image](https://github.com/user-attachments/assets/7aaec142-17d8-4c1d-9973-9f0466b59f50)
+" alt="coding" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
 
