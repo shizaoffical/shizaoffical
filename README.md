@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shiza Asif</h1>
+![image](https://github.com/user-attachments/assets/a83c0617-36bb-439f-9038-f3ae16a179d8)<h1 align="center">Hi 👋, I'm Shiza Asif</h1>
 <h3 align="center">I’m a Full-Stack Web Developer with a passion for crafting scalable, user-friendly web applications.</h3>
-<img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif
+<img src="https://github.com/user-attachments/assets/b02f9d00-b33b-4cd1-88e2-2af3b6558985
+
 " alt="coding" align="right" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
