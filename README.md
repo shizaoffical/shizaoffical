@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a83c0617-36bb-439f-9038-f3ae16a179d8)<h1 align="center">Hi 👋, I'm Shiza Asif</h1>
+<h1 align="center">Hi 👋, I'm Shiza Asif</h1>
 <h3 align="center">I’m a Full-Stack Web Developer with a passion for crafting scalable, user-friendly web applications.</h3>
 
 
