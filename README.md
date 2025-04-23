@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
-<img src="https://github.com/user-attachments/assets/b02f9d00-b33b-4cd1-88e2-2af3b6558985" alt="coding" align="right" width="400"/>
+<img src="https://github.com/user-attachments/assets/b02f9d00-b33b-4cd1-88e2-2af3b6558985" alt="coding" align="right" width="300"/>
 - 🔭 I’m currently focused on **enhancing and expanding my skill set.**
 
 - 🌱 I’m currently learning **Angular, Iconic**
