@@ -1,6 +1,7 @@
 ![logo](https://github.com/shizaoffical/shizaoffical/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Shiza Asif</h1>
-<h3 align="center">I’m a Full-Stack Web Developer with a passion for crafting scalable, user-friendly web applications.</h3>
+<h1 align="center">Hi 👋, Shiza Asif right here.</h1>
+<h3 align="center">Full-Stack Web Developer driven to create scalable, intuitive, and high-performing web applications.
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
