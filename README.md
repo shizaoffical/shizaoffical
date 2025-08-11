@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/@shizaasif516924" target="blank"><img src="https://img.shields.io/twitter/follow/@shizaasif516924?logo=twitter&style=for-the-badge" alt="@shizaasif516924" /></a> </p>
 <img src="https://github.com/user-attachments/assets/b02f9d00-b33b-4cd1-88e2-2af3b6558985" alt="coding" align="right" width="300"/>
 
-- 🔭 I’m currently focused on **enhancing and expanding my skill set.**
+- 🔭 I’m currently working as a **websote desiner** at **Sumsols Technologies**
 
 - 🌱 I’m currently learning **Angular, Iconic**
 
