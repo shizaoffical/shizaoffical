@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a **websote designer** at **Sumsols Technologies**
 
-- 🌱 I’m currently learning **Angular, Iconic**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shizaoffical?tab=repositories](https://github.com/shizaoffical?tab=repositories)
 
