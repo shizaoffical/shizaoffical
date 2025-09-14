@@ -1,4 +1,4 @@
-![logo](https://github.com/shizaoffical/shizaoffical/blob/main/Github%20Banner.png)
+![logo](https://github.com/shizaoffical/shizaoffical/blob/main/cover.png)
 <h1 align="center">Hi 👋, Shiza Asif right here.</h1>
 <h3 align="center">Full-Stack Web Developer driven to create scalable, intuitive, and high-performing web applications.
 </h3>
