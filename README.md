@@ -11,15 +11,9 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shizaoffical?tab=repositories](https://github.com/shizaoffical?tab=repositories)
-
 - 💬 Ask me about **jQuery,Reactjs,Vuejs,Jsvascript,PHP,Laravel,**
 
 - 📫 How to reach me **shizaasif710@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11O-sOeiPrnhBfrizQtUhJyz933JvL76H/view?usp=sharing](https://drive.google.com/file/d/11O-sOeiPrnhBfrizQtUhJyz933JvL76H/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
