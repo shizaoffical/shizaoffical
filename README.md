@@ -1,6 +1,6 @@
 ![logo](https://github.com/shizaoffical/shizaoffical/blob/main/cover.png)
 <h1 align="center">Hi 👋, Shiza Asif right here.</h1>
-<h3 align="center">Manifest Your Concept Into Real Concrete Reality
+<h3 align="center">Where Your Concept Becomes Real, Concrete, and Designed to Inspire.
 </h3>
 
 
