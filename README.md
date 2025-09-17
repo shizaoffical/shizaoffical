@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **jQuery,Reactjs,Vuejs,Jsvascript,PHP,Laravel,**
-
 - 📫 How to reach me **shizaasif710@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
