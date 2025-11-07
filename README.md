@@ -1,7 +1,7 @@
 ![logo](https://github.com/shizaoffical/shizaoffical/blob/main/cover.png)
 <h1 align="center">Hi 👋, Shiza Asif right here.</h1>
-<h3 align="center">Where Your Concept Becomes Real, Concrete, and Designed to Inspire.
-</h3>
+<!-- <h3 align="center">Where Your Concept Becomes Real, Concrete, and Designed to Inspire.
+</h3> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
