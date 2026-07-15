@@ -1,31 +1,94 @@
-![logo](https://github.com/shizaoffical/shizaoffical/blob/main/cover.png)
-<h1 align="center">Hi 👋, Shiza Asif right here.</h1>
-<!-- <h3 align="center">Where Your Concept Becomes Real, Concrete, and Designed to Inspire.
-</h3> -->
+<div align="center">
 
+![Shiza Asif — Full Stack Software Engineer](./terminal-profile.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=0e75b6&style=flat" alt="shizaoffical" /> </p>
-<img src="https://github.com/user-attachments/assets/b02f9d00-b33b-4cd1-88e2-2af3b6558985" alt="coding" align="right" width="300"/>
+<h1>Hi, I'm Shiza Asif 👋</h1>
+<p><strong>Full Stack Software Engineer · Product Builder · Agentic AI Explorer</strong></p>
+<p>I build thoughtful web and mobile experiences backed by clean, dependable systems.</p>
 
-- 🔭 Currently working as a **Full Stack Software Engineer** at **Sumsols Technologies**
+[![Portfolio](https://img.shields.io/badge/Explore_My_Work-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shiza-asif-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiza-asif-92058b294)
+[![Email](https://img.shields.io/badge/Start_a_Conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shizaasif710@gmail.com)
 
-- 🌱 Currently learning **Agentic AI**
+![Profile views](https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=38bdf8&style=flat)
 
-- 📫 How to reach me **shizaasif710@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## `whoami`
 
-<a href="https://linkedin.com/in/in/shiza-asif-92058b294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shiza-asif-92058b294" height="30" width="40" /></a>
-</p>
+I'm a **Full Stack Software Engineer at Sumsols Technologies**, working across the product lifecycle—from intuitive interfaces to reliable APIs and data layers. I care about clean architecture, purposeful design, and software that solves real problems. Right now, I'm exploring **Agentic AI** and how intelligent systems can make digital products more capable and useful.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```ts
+const shiza = {
+  role: "Full Stack Software Engineer",
+  building: ["Web Applications", "Mobile Experiences", "APIs"],
+  learning: "Agentic AI",
+  values: ["Clean Code", "Thoughtful UX", "Continuous Growth"],
+  availableFor: ["Collaboration", "Interesting Engineering Opportunities"]
+};
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shizaoffical&show_icons=true&locale=en&layout=compact" alt="shizaoffical" /></p>
+## What I bring to a product
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&locale=en" alt="shizaoffical" /></p>
+| Frontend | Backend | Product mindset |
+|:---|:---|:---|
+| Responsive, accessible interfaces | Maintainable APIs and data flows | Ideas translated into usable features |
+| Component-driven architecture | Authentication and integrations | Quality, clarity, and user experience |
+| Web and cross-platform mobile | Relational and document databases | Ownership from concept to delivery |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shizaoffical&" alt="shizaoffical" /></p>
+## Technology stack
 
+<div align="center">
 
+**Languages**<br/><br/>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend & Mobile**<br/><br/>
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend, Data & Tools**<br/><br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shiza's GitHub statistics" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shiza's most-used languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=tokyonight&hide_border=true" alt="Shiza's contribution streak" />
+
+</div>
+
+## Beyond the code
+
+- 🔭 Currently creating full-stack web and mobile products
+- 🌱 Learning and experimenting with Agentic AI
+- 💡 Interested in product engineering, clean architecture, and thoughtful UX
+- 🤝 Open to meaningful collaborations and engineering opportunities
+
+---
+
+<div align="center">
+
+### Have an idea, opportunity, or interesting problem?
+
+**[Visit my portfolio](https://shiza-asif-portfolio.vercel.app/) · [Connect on LinkedIn](https://linkedin.com/in/shiza-asif-92058b294) · [Send an email](mailto:shizaasif710@gmail.com)**
+
+<sub>Designed and built with intention by Shiza Asif.</sub>
+
+</div>
