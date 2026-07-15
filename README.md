@@ -20,7 +20,7 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 ---
 
-## ✦ Technical Toolkit
+## Technical Toolkit
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 ---
 
-## ✦ Capability Map
+## Capability Map
 
 <table>
 <tr>
@@ -136,7 +136,7 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 ---
 
-## ✦ Current Focus
+## Current Focus
 
 <table>
 <tr>
@@ -173,20 +173,20 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 ---
 
-## ✦ GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="Shiza's GitHub statistics" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Shiza's most-used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&rank_icon=github" alt="Shiza's GitHub statistics" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Shiza's most-used languages" />
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="Shiza's contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza's contribution streak" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Shiza's contribution graph" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif's%20Contribution%20Graph" alt="Shiza's contribution graph" />
 
 </div>
 
