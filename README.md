@@ -171,16 +171,13 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 </tr>
 </table>
 
----
-
 ## GitHub Activity
 
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza's contribution streak" />
 
-<br/><br/>
-
+<br/>
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif's%20Contribution%20Graph" alt="Shiza's contribution graph" />
 
 </div>
