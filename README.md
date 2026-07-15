@@ -2,7 +2,7 @@
 <tr>
 <td width="390" align="center" valign="middle">
 
-<img src="./profile-photo.png" width="350" alt="Shiza Asif" />
+<img src="https://raw.githubusercontent.com/shizaoffical/shizaoffical/main/profile-photo.png" width="350" alt="Shiza Asif" />
 
 </td>
 <td width="850" valign="middle">
@@ -195,18 +195,10 @@ From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powe
 <a href="https://github.com/shizaoffical?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
 
 </div>
-
----
-
 <div align="center">
 
 ## Let’s build together.
 
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
-
-<br/><br/>
-
-<sub>Built by <strong>Shiza Asif</strong>.</sub>
-
 </div>
