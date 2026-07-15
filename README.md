@@ -19,9 +19,9 @@
 
 From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powered workflows, I turn product ideas into experiences ready for real users.
 
-<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://shiza-asif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shizaasif710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Let's_Talk-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ### At a glance
 
@@ -196,9 +196,9 @@ From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powe
 
 ## Let’s build together.
 <br/>
-<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
+<a href="https://shiza-asif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shizaasif710@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
 
 
 </div>
