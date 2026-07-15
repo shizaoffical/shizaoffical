@@ -189,6 +189,9 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif's%20Contribution%20Graph" alt="Shiza's contribution graph" />
 
 </div>
+
+---
+
 <div align="center">
 
 ## Let’s build together.
@@ -196,5 +199,8 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
 
+<br/><br/>
+
+<sub>Built by <strong>Shiza Asif</strong>.</sub>
 
 </div>
