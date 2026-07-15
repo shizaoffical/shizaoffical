@@ -1,6 +1,6 @@
 <div align="center">
 
-![Shiza Asif — Full Stack Software Engineer](./terminal-profile.svg)
+![Shiza Asif — Full Stack Software Engineer](./github-profile.svg)
 
 <h1>Hi, I'm Shiza Asif 👋</h1>
 <p><strong>Full Stack Software Engineer · Product Builder · Agentic AI Explorer</strong></p>
