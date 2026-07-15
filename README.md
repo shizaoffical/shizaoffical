@@ -71,66 +71,52 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend Engineering
-
-`Next.js` `TypeScript` `React.js` `Angular`  
-`Ionic` `Tailwind CSS` `Bootstrap` `Responsive UI`
-
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/01-238636?style=flat-square" alt="01" />
+<br/><br/>
+<strong>Frontend Engineering</strong>
+<p>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</p>
 </td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend Development
-
-`Laravel Advanced` `REST APIs` `Node.js`  
-`PHP` `Authentication` `API Integration`
-
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/02-238636?style=flat-square" alt="02" />
+<br/><br/>
+<strong>Backend Development</strong>
+<p>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</p>
 </td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🗄️ Data & Cloud
-
-`MySQL` `Firebase` `Firestore` `phpMyAdmin`  
-`Schema Design` `Performance Tuning`
-
-</td>
-<td valign="top">
-
-### 🚀 Delivery & Collaboration
-
-`Vercel` `Hostinger` `cPanel` `FileZilla`  
-`Postman` `Jira` `Slack` `GitLab`
-
+<td width="33%" valign="top">
+<img src="https://img.shields.io/badge/03-238636?style=flat-square" alt="03" />
+<br/><br/>
+<strong>Data &amp; Cloud</strong>
+<p>MySQL · Firebase · Firestore · phpMyAdmin<br/>Schema Design · Performance Tuning</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-
-### 🤖 AI & Modern Tooling
-
-`GPT` `Claude` `Gemini` `OpenRouter` `Ollama`  
-`Cursor` `Codex` `Kiro` `Windsurf` `Cline`
-
+<img src="https://img.shields.io/badge/04-238636?style=flat-square" alt="04" />
+<br/><br/>
+<strong>AI &amp; Modern Tooling</strong>
+<p>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</p>
 </td>
 <td valign="top">
-
-### 📱 Mobile Development
-
-`Dart` `Flutter` `Cross-Platform` `Material Design`  
-`Provider` `GetX` `Hive` `sqflite` `SharedPreferences`
-
+<img src="https://img.shields.io/badge/05-238636?style=flat-square" alt="05" />
+<br/><br/>
+<strong>Mobile Development</strong>
+<p>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</p>
+</td>
+<td valign="top">
+<img src="https://img.shields.io/badge/06-238636?style=flat-square" alt="06" />
+<br/><br/>
+<strong>Delivery &amp; Collaboration</strong>
+<p>Vercel · Hostinger · cPanel · FileZilla<br/>Postman · Jira · Slack · GitLab</p>
 </td>
 </tr>
 </table>
 
 <details>
-<summary><strong>View complete mobile ecosystem</strong></summary>
+<summary><strong>Mobile services &amp; publishing toolkit</strong></summary>
 <br/>
 
-`Cloud Firestore` · `Firebase Authentication` · `Firebase Storage` · `Firebase Cloud Messaging` · `AdMob Integration` · `REST APIs` · `JSON Parsing` · `Gemini API` · `OpenAI API` · `Android Studio` · `Google Play Console` · `ASO` · `APK / AAB Release`
+Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud Messaging · AdMob Integration · REST APIs · JSON Parsing · Gemini API · OpenAI API · Android Studio · Google Play Console · ASO · APK / AAB Release
 
 </details>
 
@@ -140,47 +126,59 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 🌐
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/BUILD-238636?style=flat-square" alt="Build" />
+<br/><br/>
 <strong>Full-Stack Products</strong><br/>
-<sub>Complete web experiences</sub>
-
+<sub>Complete web experiences—from interface to API.</sub>
 </td>
-<td align="center" width="25%">
-
-### 📱
-<strong>Mobile Apps</strong><br/>
-<sub>Cross-platform delivery</sub>
-
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/SHIP-238636?style=flat-square" alt="Ship" />
+<br/><br/>
+<strong>Cross-Platform Mobile Apps</strong><br/>
+<sub>Reliable Flutter products ready for real users.</sub>
 </td>
-<td align="center" width="25%">
-
-### 🤖
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/EXPLORE-238636?style=flat-square" alt="Explore" />
+<br/><br/>
 <strong>Agentic AI</strong><br/>
-<sub>Smarter product workflows</sub>
-
+<sub>Useful intelligence embedded into product workflows.</sub>
 </td>
-<td align="center" width="25%">
-
-### 🧩
+<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/ENGINEER-238636?style=flat-square" alt="Engineer" />
+<br/><br/>
 <strong>Clean Architecture</strong><br/>
-<sub>Systems built to scale</sub>
-
+<sub>Maintainable systems designed to grow with the product.</sub>
 </td>
 </tr>
 </table>
+
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza's contribution streak" />
+<strong>Consistency · Contributions · Growth</strong>
 
-<br/>
+<br/><br/>
+
+<img width="74%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza's contribution streak" />
+
+<br/><br/>
+
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif's%20Contribution%20Graph" alt="Shiza's contribution graph" />
 
+<br/><br/>
+
+<a href="https://github.com/shizaoffical"><img src="https://img.shields.io/badge/GitHub_Profile-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="View GitHub profile" /></a>
+<a href="https://github.com/shizaoffical?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+
 </div>
+
+---
 
 <div align="center">
 
@@ -188,5 +186,9 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
+
+<br/><br/>
+
+<sub>Built by <strong>Shiza Asif</strong>.</sub>
 
 </div>
