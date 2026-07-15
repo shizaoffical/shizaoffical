@@ -2,23 +2,51 @@
 
 <img src="./github-profile.svg" width="100%" alt="Shiza Asif — Full Stack Software Engineer" />
 
+</div>
+
+<table>
+<tr>
+<td width="820" valign="middle">
+
+<sub><strong>FULL STACK SOFTWARE ENGINEER</strong></sub>
+
 # Shiza Asif
 
-### Full Stack Software Engineer
+### I build complete digital products—not just isolated features.
 
-`Web Applications` · `Mobile Apps` · `Backend Systems` · `Agentic AI`
+From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powered workflows, I turn product ideas into experiences ready for real users.
 
-I turn product ideas into polished, reliable digital experiences.
+<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shiza-asif-92058b294"><img src="https://img.shields.io/badge/Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/shiza-asif-92058b294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</td>
+<td width="420" valign="middle">
 
-<br/>
+### At a glance
 
+<img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=%2339d353" width="17" alt="Role" />
+&nbsp; <strong>Current role</strong><br/>
+<sub>Full Stack Software Engineer</sub>
+
+<br/><br/>
+
+<img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="17" alt="Experience" />
+&nbsp; <strong>Experience</strong><br/>
+<sub>4+ years building digital products</sub>
+
+<br/><br/>
+
+<img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="17" alt="Focus" />
+&nbsp; <strong>Current focus</strong><br/>
+<sub>Agentic AI and product engineering</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Experience-4%2B_Years-238636?style=flat-square" alt="4+ years of experience" />
-
 </div>
 
 ---
