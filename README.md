@@ -1,94 +1,161 @@
 <div align="center">
 
-![Shiza Asif — Full Stack Software Engineer](./github-profile.svg)
+<img src="./github-profile.svg" width="100%" alt="Shiza Asif — Full Stack Software Engineer" />
 
-<h1>Hi, I'm Shiza Asif 👋</h1>
-<p><strong>Full Stack Software Engineer · Product Builder · Agentic AI Explorer</strong></p>
-<p>I build thoughtful web and mobile experiences backed by clean, dependable systems.</p>
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Work-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://shiza-asif-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiza-asif-92058b294)
-[![Email](https://img.shields.io/badge/Start_a_Conversation-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shizaasif710@gmail.com)
+# Hi, I'm Shiza Asif 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20views&color=38bdf8&style=flat)
+### Full Stack Software Engineer · Product Builder · Agentic AI Explorer
+
+I build polished web and mobile experiences supported by clean, scalable, and dependable systems.
+
+<br/>
+
+<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/View_Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/shiza-asif-92058b294"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views"/>
 
 </div>
 
-## `whoami`
+---
 
-I'm a **Full Stack Software Engineer at Sumsols Technologies**, working across the product lifecycle—from intuitive interfaces to reliable APIs and data layers. I care about clean architecture, purposeful design, and software that solves real problems. Right now, I'm exploring **Agentic AI** and how intelligent systems can make digital products more capable and useful.
+## About Me
+
+I'm a **Full Stack Software Engineer at Sumsols Technologies**, working across the complete product lifecycle—from intuitive user interfaces to reliable APIs and data layers.
+
+I enjoy turning ideas into practical digital products while focusing on clean architecture, thoughtful user experience, and maintainable code. Currently, I’m exploring **Agentic AI** and how intelligent systems can make digital products more capable and useful.
 
 ```ts
 const shiza = {
   role: "Full Stack Software Engineer",
-  building: ["Web Applications", "Mobile Experiences", "APIs"],
-  learning: "Agentic AI",
-  values: ["Clean Code", "Thoughtful UX", "Continuous Growth"],
-  availableFor: ["Collaboration", "Interesting Engineering Opportunities"]
+  company: "Sumsols Technologies",
+  builds: ["Web Applications", "Mobile Applications", "APIs and Backend Systems"],
+  currentlyExploring: "Agentic AI",
+  values: ["Clean Code", "Thoughtful UX", "Reliable Systems", "Continuous Growth"],
+  openTo: ["Meaningful Collaborations", "Engineering Opportunities", "Interesting Product Ideas"]
 };
 ```
 
-## What I bring to a product
+---
 
-| Frontend | Backend | Product mindset |
-|:---|:---|:---|
-| Responsive, accessible interfaces | Maintainable APIs and data flows | Ideas translated into usable features |
-| Component-driven architecture | Authentication and integrations | Quality, clarity, and user experience |
-| Web and cross-platform mobile | Relational and document databases | Ownership from concept to delivery |
+## What I Bring to a Product
 
-## Technology stack
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎨 Frontend
+
+- Responsive and accessible interfaces
+- Component-driven architecture
+- Web and cross-platform mobile apps
+- Clean and consistent user experiences
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+- Maintainable APIs and data flows
+- Authentication and integrations
+- Relational and document databases
+- Reliable server-side architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Product Mindset
+
+- Ideas translated into usable features
+- Ownership from concept to delivery
+- Attention to quality and clarity
+- User-focused technical decisions
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology Stack
 
 <div align="center">
 
-**Languages**<br/><br/>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=flat-square&logo=postgresql&logoColor=white)
+### Languages
 
-**Frontend & Mobile**<br/><br/>
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,php" alt="TypeScript, JavaScript and PHP"/>
 
-**Backend, Data & Tools**<br/><br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma)
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+
+### Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap" alt="React, Next.js, Vue.js and Bootstrap"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql,mongodb" alt="Node.js, Laravel, MySQL and MongoDB"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma and Visual Studio Code"/>
 
 </div>
 
-## GitHub activity
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Shiza's GitHub statistics" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Shiza's most-used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" alt="Shiza's GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0&langs_count=8" alt="Shiza's most-used languages"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=tokyonight&hide_border=true" alt="Shiza's contribution streak" />
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8" alt="Shiza's GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Shiza's GitHub contribution graph"/>
 
 </div>
 
-## Beyond the code
+---
 
-- 🔭 Currently creating full-stack web and mobile products
-- 🌱 Learning and experimenting with Agentic AI
-- 💡 Interested in product engineering, clean architecture, and thoughtful UX
-- 🤝 Open to meaningful collaborations and engineering opportunities
+## Current Focus
+
+- 🔭 Building full-stack web and mobile products
+- 🤖 Exploring Agentic AI and intelligent product experiences
+- 🧩 Improving software architecture and reusable systems
+- 🎯 Creating products with thoughtful and intuitive UX
+- 🤝 Open to collaborations and engineering opportunities
 
 ---
 
 <div align="center">
 
-### Have an idea, opportunity, or interesting problem?
+## Let’s Build Something Meaningful
 
-**[Visit my portfolio](https://shiza-asif-portfolio.vercel.app/) · [Connect on LinkedIn](https://linkedin.com/in/shiza-asif-92058b294) · [Send an email](mailto:shizaasif710@gmail.com)**
+Have an idea, an opportunity, or an interesting engineering problem?
 
-<sub>Designed and built with intention by Shiza Asif.</sub>
+<br/>
+
+<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Work-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my work"/></a>
+<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation"/></a>
+
+<br/><br/>
+
+<sub>Designed and built with intention by <strong>Shiza Asif</strong>.</sub>
 
 </div>
