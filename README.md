@@ -177,11 +177,6 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&rank_icon=github" alt="Shiza's GitHub statistics" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Shiza's most-used languages" />
-
-<br/><br/>
-
 <img width="70%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza's contribution streak" />
 
 <br/><br/>
@@ -190,17 +185,11 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 </div>
 
----
-
 <div align="center">
 
 ## Let’s build together.
 
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
-
-<br/><br/>
-
-<sub>Built by <strong>Shiza Asif</strong>.</sub>
 
 </div>
