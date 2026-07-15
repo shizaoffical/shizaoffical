@@ -194,13 +194,13 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <div align="center">
 
-## Have an idea, opportunity, or interesting problem?
+## Let’s build together.
 
-<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_My_Work-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore my work" /></a>
-<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" /></a>
+<a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
+<a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
 
 <br/><br/>
 
-<sub>Designed and built with intention by <strong>Shiza Asif</strong>.</sub>
+<sub>Built by <strong>Shiza Asif</strong>.</sub>
 
 </div>
