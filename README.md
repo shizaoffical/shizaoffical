@@ -89,19 +89,19 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="22" alt="Code" />
 &nbsp; <strong>Frontend Engineering</strong>
 <br/>
 <sub>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</sub>
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2339d353" width="22" alt="Server" />
 &nbsp; <strong>Backend Development</strong>
 <br/>
 <sub>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</sub>
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339d353" width="22" alt="Database" />
 &nbsp; <strong>Data &amp; Cloud</strong>
 <br/>
@@ -109,19 +109,19 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="22" alt="AI" />
 &nbsp; <strong>AI &amp; Modern Tooling</strong>
 <br/>
-<sub>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</sub>
+<sub>GPT · Claude · Gemini · OpenRouter<br/>Ollama · Cursor · Codex · Kiro · Windsurf · Cline</sub>
 </td>
-<td valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="Mobile" />
 &nbsp; <strong>Mobile Development</strong>
 <br/>
 <sub>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</sub>
 </td>
-<td valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339d353" width="22" alt="Delivery" />
 &nbsp; <strong>Delivery &amp; Collaboration</strong>
 <br/>
@@ -129,19 +129,19 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2339d353" width="22" alt="Mobile services" />
 &nbsp; <strong>Mobile Services</strong>
 <br/>
 <sub>Cloud Firestore · Firebase Auth · Storage<br/>Cloud Messaging · Realtime Database</sub>
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/plug.svg?color=%2339d353" width="22" alt="Integrations" />
 &nbsp; <strong>APIs &amp; Integrations</strong>
 <br/>
 <sub>REST APIs · JSON Parsing · OpenAI API<br/>Gemini API · Gmail API · AdMob</sub>
 </td>
-<td width="33%" valign="top">
+<td width="33.33%" align="left" valign="top">
 <img src="https://api.iconify.design/fa6-solid/store.svg?color=%2339d353" width="22" alt="Publishing" />
 &nbsp; <strong>App Publishing</strong>
 <br/>
