@@ -24,7 +24,7 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
 <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
@@ -61,6 +61,24 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="42" alt="Android Studio"/><br/><sub><b>Android Studio</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="42" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 </tr>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleplay.svg?color=%2334A853" width="42" alt="Google Play"/><br/><sub><b>Google Play</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleadmob.svg?color=%23EA4335" width="42" alt="AdMob"/><br/><sub><b>AdMob</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="42" alt="OpenAI"/><br/><sub><b>OpenAI</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" width="42" alt="Gemini"/><br/><sub><b>Gemini</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="42" alt="Claude"/><br/><sub><b>Claude</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23C9D1D9" width="42" alt="Ollama"/><br/><sub><b>Ollama</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="42" alt="Cursor"/><br/><sub><b>Cursor</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="42" alt="Gmail API"/><br/><sub><b>Gmail API</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="42" alt="Analytics"/><br/><sub><b>Analytics</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/cpanel.svg?color=%23FF6C2C" width="42" alt="cPanel"/><br/><sub><b>cPanel</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/filezilla.svg?color=%23BF0000" width="42" alt="FileZilla"/><br/><sub><b>FileZilla</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/hostinger.svg?color=%23673DE6" width="42" alt="Hostinger"/><br/><sub><b>Hostinger</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/microsoftoffice.svg?color=%23D83B01" width="42" alt="MS Office"/><br/><sub><b>MS Office</b></sub></td>
+</tr>
 </table>
 
 </div>
@@ -69,7 +87,7 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 ## Capability Map
 
-<table>
+<table width="100%">
 <tr>
 <td width="33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="22" alt="Code" />
@@ -110,53 +128,57 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 <sub>Vercel · Hostinger · cPanel · FileZilla<br/>Postman · Jira · Slack · GitLab</sub>
 </td>
 </tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2339d353" width="22" alt="Mobile services" />
+&nbsp; <strong>Mobile Services</strong>
+<br/>
+<sub>Cloud Firestore · Firebase Auth · Storage<br/>Cloud Messaging · Realtime Database</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/plug.svg?color=%2339d353" width="22" alt="Integrations" />
+&nbsp; <strong>APIs &amp; Integrations</strong>
+<br/>
+<sub>REST APIs · JSON Parsing · OpenAI API<br/>Gemini API · Gmail API · AdMob</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/store.svg?color=%2339d353" width="22" alt="Publishing" />
+&nbsp; <strong>App Publishing</strong>
+<br/>
+<sub>Android Studio · Google Play Console<br/>ASO · APK/AAB Release</sub>
+</td>
+</tr>
 </table>
-
-<details>
-<summary><strong>Mobile services &amp; publishing toolkit</strong></summary>
-<sub>Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud Messaging · AdMob · REST APIs · JSON Parsing · Gemini API · OpenAI API · Android Studio · Google Play Console · ASO · APK/AAB Release</sub>
-
-</details>
 
 ---
 
 ## Current Focus
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-<br/>
+<td width="25%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339d353" width="24" alt="Full-stack" />
 &nbsp; <strong>Full-Stack Products</strong>
-<br/><br/>
+<br/>
 <sub>Complete web experiences—from interface to API.</sub>
-<br/><br/>
 </td>
-<td width="50%" valign="top">
-<br/>
+<td width="25%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/mobile-screen.svg?color=%2339d353" width="20" alt="Mobile apps" />
-&nbsp; <strong>Cross-Platform Mobile Apps</strong>
-<br/><br/>
-<sub>Reliable Flutter products ready for real users.</sub>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
+&nbsp; <strong>Mobile Apps</strong>
 <br/>
+<sub>Reliable Flutter products ready for real users.</sub>
+</td>
+<td width="25%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="22" alt="Agentic AI" />
 &nbsp; <strong>Agentic AI</strong>
-<br/><br/>
-<sub>Useful intelligence embedded into product workflows.</sub>
-<br/><br/>
-</td>
-<td valign="top">
 <br/>
+<sub>Useful intelligence embedded into product workflows.</sub>
+</td>
+<td width="25%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="22" alt="Architecture" />
 &nbsp; <strong>Clean Architecture</strong>
-<br/><br/>
+<br/>
 <sub>Maintainable systems designed to grow with the product.</sub>
-<br/><br/>
 </td>
 </tr>
 </table>
