@@ -71,66 +71,50 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<br/>
+<td width="33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="22" alt="Code" />
 &nbsp; <strong>Frontend Engineering</strong>
-<br/><br/>
-<sub>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</sub>
-<br/><br/>
-</td>
-<td width="50%" valign="top">
 <br/>
+<sub>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2339d353" width="22" alt="Server" />
 &nbsp; <strong>Backend Development</strong>
-<br/><br/>
-<sub>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</sub>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td valign="top">
 <br/>
+<sub>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339d353" width="22" alt="Database" />
 &nbsp; <strong>Data &amp; Cloud</strong>
-<br/><br/>
-<sub>MySQL · Firebase · Firestore · phpMyAdmin<br/>Schema Design · Performance Tuning</sub>
-<br/><br/>
-</td>
-<td valign="top">
 <br/>
-<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="22" alt="AI" />
-&nbsp; <strong>AI &amp; Modern Tooling</strong>
-<br/><br/>
-<sub>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</sub>
-<br/><br/>
+<sub>MySQL · Firebase · Firestore · phpMyAdmin<br/>Schema Design · Performance Tuning</sub>
 </td>
 </tr>
 <tr>
 <td valign="top">
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="22" alt="AI" />
+&nbsp; <strong>AI &amp; Modern Tooling</strong>
 <br/>
-<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="Mobile" />
-&nbsp; <strong>Mobile Development</strong>
-<br/><br/>
-<sub>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</sub>
-<br/><br/>
+<sub>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</sub>
 </td>
 <td valign="top">
+<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="Mobile" />
+&nbsp; <strong>Mobile Development</strong>
 <br/>
+<sub>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</sub>
+</td>
+<td valign="top">
 <img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339d353" width="22" alt="Delivery" />
 &nbsp; <strong>Delivery &amp; Collaboration</strong>
-<br/><br/>
+<br/>
 <sub>Vercel · Hostinger · cPanel · FileZilla<br/>Postman · Jira · Slack · GitLab</sub>
-<br/><br/>
 </td>
 </tr>
 </table>
 
 <details>
 <summary><strong>Mobile services &amp; publishing toolkit</strong></summary>
-<br/>
-
-Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud Messaging · AdMob Integration · REST APIs · JSON Parsing · Gemini API · OpenAI API · Android Studio · Google Play Console · ASO · APK / AAB Release
+<sub>Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud Messaging · AdMob · REST APIs · JSON Parsing · Gemini API · OpenAI API · Android Studio · Google Play Console · ASO · APK/AAB Release</sub>
 
 </details>
 
