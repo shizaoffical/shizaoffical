@@ -197,6 +197,7 @@ From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powe
 ## Let’s build together.
 <br/>
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
 
 
