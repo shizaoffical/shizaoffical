@@ -71,43 +71,57 @@ Designing and building polished web, mobile, backend, and AI-powered products.
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<img src="https://img.shields.io/badge/01-238636?style=flat-square" alt="01" />
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="22" alt="Code" />
+&nbsp; <strong>Frontend Engineering</strong>
 <br/><br/>
-<strong>Frontend Engineering</strong>
-<p>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</p>
+<sub>Next.js · TypeScript · React.js · Angular<br/>Ionic · Tailwind CSS · Bootstrap · Responsive UI</sub>
+<br/><br/>
 </td>
-<td width="33%" valign="top">
-<img src="https://img.shields.io/badge/02-238636?style=flat-square" alt="02" />
+<td width="50%" valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2339d353" width="22" alt="Server" />
+&nbsp; <strong>Backend Development</strong>
 <br/><br/>
-<strong>Backend Development</strong>
-<p>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</p>
-</td>
-<td width="33%" valign="top">
-<img src="https://img.shields.io/badge/03-238636?style=flat-square" alt="03" />
+<sub>Laravel Advanced · REST APIs · Node.js<br/>PHP · Authentication · API Integration</sub>
 <br/><br/>
-<strong>Data &amp; Cloud</strong>
-<p>MySQL · Firebase · Firestore · phpMyAdmin<br/>Schema Design · Performance Tuning</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
-<img src="https://img.shields.io/badge/04-238636?style=flat-square" alt="04" />
+<br/>
+<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339d353" width="22" alt="Database" />
+&nbsp; <strong>Data &amp; Cloud</strong>
 <br/><br/>
-<strong>AI &amp; Modern Tooling</strong>
-<p>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</p>
+<sub>MySQL · Firebase · Firestore · phpMyAdmin<br/>Schema Design · Performance Tuning</sub>
+<br/><br/>
 </td>
 <td valign="top">
-<img src="https://img.shields.io/badge/05-238636?style=flat-square" alt="05" />
+<br/>
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="22" alt="AI" />
+&nbsp; <strong>AI &amp; Modern Tooling</strong>
 <br/><br/>
-<strong>Mobile Development</strong>
-<p>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</p>
+<sub>GPT · Claude · Gemini · OpenRouter · Ollama<br/>Cursor · Codex · Kiro · Windsurf · Cline</sub>
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="Mobile" />
+&nbsp; <strong>Mobile Development</strong>
+<br/><br/>
+<sub>Dart · Flutter · Cross-Platform · Material Design<br/>Provider · GetX · Hive · sqflite · SharedPreferences</sub>
+<br/><br/>
 </td>
 <td valign="top">
-<img src="https://img.shields.io/badge/06-238636?style=flat-square" alt="06" />
+<br/>
+<img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339d353" width="22" alt="Delivery" />
+&nbsp; <strong>Delivery &amp; Collaboration</strong>
 <br/><br/>
-<strong>Delivery &amp; Collaboration</strong>
-<p>Vercel · Hostinger · cPanel · FileZilla<br/>Postman · Jira · Slack · GitLab</p>
+<sub>Vercel · Hostinger · cPanel · FileZilla<br/>Postman · Jira · Slack · GitLab</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -127,30 +141,38 @@ Cloud Firestore · Firebase Authentication · Firebase Storage · Firebase Cloud
 <table>
 <tr>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/BUILD-238636?style=flat-square" alt="Build" />
+<br/>
+<img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339d353" width="24" alt="Full-stack" />
+&nbsp; <strong>Full-Stack Products</strong>
 <br/><br/>
-<strong>Full-Stack Products</strong><br/>
 <sub>Complete web experiences—from interface to API.</sub>
+<br/><br/>
 </td>
 <td width="50%" valign="top">
-<img src="https://img.shields.io/badge/SHIP-238636?style=flat-square" alt="Ship" />
+<br/>
+<img src="https://api.iconify.design/fa6-solid/mobile-screen.svg?color=%2339d353" width="20" alt="Mobile apps" />
+&nbsp; <strong>Cross-Platform Mobile Apps</strong>
 <br/><br/>
-<strong>Cross-Platform Mobile Apps</strong><br/>
 <sub>Reliable Flutter products ready for real users.</sub>
+<br/><br/>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/EXPLORE-238636?style=flat-square" alt="Explore" />
+<td valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="22" alt="Agentic AI" />
+&nbsp; <strong>Agentic AI</strong>
 <br/><br/>
-<strong>Agentic AI</strong><br/>
 <sub>Useful intelligence embedded into product workflows.</sub>
-</td>
-<td width="50%" valign="top">
-<img src="https://img.shields.io/badge/ENGINEER-238636?style=flat-square" alt="Engineer" />
 <br/><br/>
-<strong>Clean Architecture</strong><br/>
+</td>
+<td valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="22" alt="Architecture" />
+&nbsp; <strong>Clean Architecture</strong>
+<br/><br/>
 <sub>Maintainable systems designed to grow with the product.</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
