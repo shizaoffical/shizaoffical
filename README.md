@@ -1,12 +1,11 @@
-<div align="center">
-
-<img src="./github-profile.svg" width="100%" alt="Shiza Asif — Full Stack Software Engineer" />
-
-</div>
-
 <table>
 <tr>
-<td width="820" valign="middle">
+<td width="390" align="center" valign="middle">
+
+<img src="./profile-photo.png" width="350" alt="Shiza Asif" />
+
+</td>
+<td width="850" valign="middle">
 
 <sub><strong>FULL STACK SOFTWARE ENGINEER</strong></sub>
 
@@ -17,29 +16,32 @@
 From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powered workflows, I turn product ideas into experiences ready for real users.
 
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/shiza-asif-92058b294"><img src="https://img.shields.io/badge/Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</td>
-<td width="420" valign="middle">
 
 ### At a glance
 
+<table>
+<tr>
+<td width="280" valign="top">
 <img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=%2339d353" width="17" alt="Role" />
-&nbsp; <strong>Current role</strong><br/>
-<sub>Full Stack Software Engineer</sub>
-
-<br/><br/>
-
+&nbsp; <sub><strong>ROLE</strong></sub><br/>
+<strong>Full Stack Software Engineer</strong>
+</td>
+<td width="240" valign="top">
 <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="17" alt="Experience" />
-&nbsp; <strong>Experience</strong><br/>
-<sub>4+ years building digital products</sub>
-
-<br/><br/>
-
+&nbsp; <sub><strong>EXPERIENCE</strong></sub><br/>
+<strong>4+ years</strong><br/>
+<sub>Building digital products</sub>
+</td>
+<td width="280" valign="top">
 <img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="17" alt="Focus" />
-&nbsp; <strong>Current focus</strong><br/>
-<sub>Agentic AI and product engineering</sub>
+&nbsp; <sub><strong>FOCUS</strong></sub><br/>
+<strong>Agentic AI</strong><br/>
+<sub>Product engineering</sub>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
