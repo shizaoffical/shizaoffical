@@ -1,11 +1,15 @@
-<table>
+<table width="100%">
+<colgroup>
+<col width="34%" />
+<col width="66%" />
+</colgroup>
 <tr>
-<td width="390" align="center" valign="middle">
+<td width="34%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/shizaoffical/shizaoffical/main/profile-photo.png" width="350" alt="Shiza Asif" />
+<img src="https://raw.githubusercontent.com/shizaoffical/shizaoffical/main/profile-photo.png" width="100%" alt="Shiza Asif" />
 
 </td>
-<td width="850" valign="middle">
+<td width="66%" valign="top">
 
 <sub><strong>FULL STACK SOFTWARE ENGINEER</strong></sub>
 
@@ -21,20 +25,20 @@ From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powe
 
 ### At a glance
 
-<table>
+<table width="100%">
 <tr>
-<td width="280" valign="top">
+<td width="33.33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/briefcase.svg?color=%2339d353" width="17" alt="Role" />
 &nbsp; <sub><strong>ROLE</strong></sub><br/>
 <strong>Full Stack Software Engineer</strong>
 </td>
-<td width="240" valign="top">
+<td width="33.33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="17" alt="Experience" />
 &nbsp; <sub><strong>EXPERIENCE</strong></sub><br/>
 <strong>4+ years</strong><br/>
 <sub>Building digital products</sub>
 </td>
-<td width="280" valign="top">
+<td width="33.33%" valign="top">
 <img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="17" alt="Focus" />
 &nbsp; <sub><strong>FOCUS</strong></sub><br/>
 <strong>Agentic AI</strong><br/>
@@ -201,4 +205,5 @@ From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powe
 
 <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Portfolio" /></a>
 <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Shiza" /></a>
+
 </div>
