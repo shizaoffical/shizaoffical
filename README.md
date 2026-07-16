@@ -15,9 +15,9 @@
 
 # Shiza Asif
 
-### I build complete digital products—not just isolated features.
+### I build complete digital products not just isolated features.
 
-From refined interfaces to reliable APIs, mobile apps, data systems, and AI-powered workflows, I turn product ideas into experiences ready for real users.
+From refined interfaces to reliable APIs, mobile apps, data systems, and AI powered workflows, I turn product ideas into experiences ready for real users.
 
 <a href="https://shiza-asif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
