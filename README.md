@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="assets/hero.svg" alt="Shiza Asif — Full Stack Software Engineer" />
+<img width="100%" src="/hero.svg" alt="Shiza Asif — Full Stack Software Engineer" />
 <br/><br/>
  
 <p>
