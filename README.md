@@ -1,7 +1,11 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D3320,100:238636&height=200&section=header&text=Shiza%20Asif&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=58&descSize=15&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=36&lines=I+turn+product+ideas+into+shipped%2C+working+software;Full-stack+web+%E2%80%A2+Flutter+apps+%E2%80%A2+AI-powered+workflows;4%2B+years+of+clean%2C+dependable+engineering" alt="Shiza Asif professional introduction" />
+
 <br/>
+
 <p>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
@@ -9,33 +13,68 @@
   <!-- Replace with your real Fiverr gig URL -->
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" /></a>
 </p>
+
 <p>
   <img src="https://img.shields.io/badge/4%2B_Years-Building_Products-0D1117?style=flat-square&labelColor=238636" alt="4+ years building products" />
   <img src="https://img.shields.io/badge/Open_to-Remote_Work-0D1117?style=flat-square&labelColor=0969DA" alt="Open to remote work" />
   <img src="https://img.shields.io/badge/Independent-Developer-0D1117?style=flat-square&labelColor=A855F7" alt="Independent developer" />
 </p>
+
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-solid/star.svg?color=%2339D353" width="22" alt="" />
 &nbsp;Why Work With Me
 </h2>
-<p align="center"><sub>Product-minded engineering, not just code delivery.</sub></p>
+
+<p align="center"><sub>Four years of turning "what if we built..." into things people actually use.</sub></p>
+
+<p align="center">
+<em>Ideas are cheap. Shipped products aren't. That's the gap I close — <br/>
+taking a concept from a rough sketch to something live, stable, and used by real people.</em>
+</p>
+
+<br/>
+
+<div align="center">
 <table width="100%">
-<tr><td>
-I'm a full-stack software engineer with **4+ years** of experience designing, building and shipping complete digital products — from web platforms and dashboards to Flutter mobile apps and AI-powered workflows. I work across the entire product lifecycle: discovery, architecture, implementation and launch, so what you get isn't just working code, it's a maintainable system built to grow.
- 
-I care about three things on every project: **clarity** — clean, readable architecture. **reliability** — production-ready delivery, not prototypes. **business value** — solving the actual problem, not just the ticket. I've shipped apps to the Play Store, launched full-stack platforms, and integrated modern AI tooling into real product workflows, independently and end to end.
- 
-</td></tr>
+<tr>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/compass-drafting.svg?color=%2358A6FF" width="30" alt="Clarity" /><br/><br/>
+<strong>Built to Be Understood</strong><br/>
+<sub>Clean, readable architecture other developers can pick up without a translator.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=%2339D353" width="30" alt="Reliability" /><br/><br/>
+<strong>Built to Last</strong><br/>
+<sub>Production-ready delivery — tested, stable, and ready for real users on day one.</sub>
+</td>
+<td width="33%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23A855F7" width="30" alt="Value" /><br/><br/>
+<strong>Built for the Business</strong><br/>
+<sub>Every feature ties back to a real outcome, not just a ticket getting closed.</sub>
+</td>
+</tr>
 </table>
+</div>
+
+<br/>
+
+<p align="center"><sub>Apps live on the Play Store. Platforms live in production. AI woven into real workflows — not demos.</sub></p>
+
 <p align="center"><sub><strong>DISCOVER</strong> &nbsp;→&nbsp; <strong>DESIGN</strong> &nbsp;→&nbsp; <strong>BUILD</strong> &nbsp;→&nbsp; <strong>SHIP</strong></sub></p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%2339D353" width="24" alt="" />
 &nbsp;Technical Expertise
 </h2>
+
 <p align="center"><sub>Technologies I use across design, development, integration and delivery.</sub></p>
+
 <h3 align="center">🖥️ Frontend</h3>
 <div align="center">
 <table>
@@ -59,6 +98,7 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <h3 align="center">⚙️ Backend</h3>
 <div align="center">
 <table>
@@ -69,6 +109,7 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <h3 align="center">☁️ Databases &amp; Cloud</h3>
 <div align="center">
 <table>
@@ -81,6 +122,7 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <h3 align="center">📱 Mobile</h3>
 <div align="center">
 <table>
@@ -93,6 +135,7 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <h3 align="center">🤖 AI &amp; Modern Tooling</h3>
 <div align="center">
 <table>
@@ -116,6 +159,7 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <h3 align="center">🛠️ Tools &amp; Delivery</h3>
 <div align="center">
 <table>
@@ -139,59 +183,40 @@ I care about three things on every project: **clarity** — clean, readable arch
 </tr>
 </table>
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-<h2 align="center">
-<img src="https://api.iconify.design/fa6-solid/diagram-project.svg?color=%2339D353" width="24" alt="" />
-&nbsp;Featured Projects
-</h2>
-<p align="center"><sub>A few highlights from recent work — swap in your best repos/case studies below.</sub></p>
-<table width="100%">
-<tr>
-<th align="left" width="20%">Project</th>
-<th align="left" width="40%">Description</th>
-<th align="left" width="25%">Stack</th>
-<th align="left" width="15%">Links</th>
-</tr>
-<tr>
-<td valign="top"><strong>Project One</strong><br/><sub><!-- e.g. SaaS Dashboard --></sub></td>
-<td valign="top">One-line, outcome-focused description of what it does and the problem it solves.</td>
-<td valign="top"><code>Next.js</code> <code>Laravel</code> <code>MySQL</code></td>
-<td valign="top"><a href="#">Live</a> · <a href="#">Repo</a></td>
-</tr>
-<tr>
-<td valign="top"><strong>Project Two</strong><br/><sub><!-- e.g. Flutter Marketplace App --></sub></td>
-<td valign="top">One-line, outcome-focused description of what it does and the problem it solves.</td>
-<td valign="top"><code>Flutter</code> <code>Firebase</code></td>
-<td valign="top"><a href="#">Play Store</a> · <a href="#">Repo</a></td>
-</tr>
-<tr>
-<td valign="top"><strong>Project Three</strong><br/><sub><!-- e.g. AI Support Assistant --></sub></td>
-<td valign="top">One-line, outcome-focused description of what it does and the problem it solves.</td>
-<td valign="top"><code>OpenAI API</code> <code>Node.js</code> <code>React</code></td>
-<td valign="top"><a href="#">Live</a> · <a href="#">Repo</a></td>
-</tr>
-</table>
-<p align="center"><sub>📌 Replace the placeholder rows above with your top 3–4 projects.</sub></p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-brands/github.svg?color=%23F0F6FC" width="25" alt="" />
 &nbsp;GitHub Activity
 </h2>
+
 <p align="center"><sub>Consistent work, practical experimentation and continuous improvement.</sub></p>
+
 <div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=github-dark-blue&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9" alt="Shiza Asif GitHub stats" />
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=github-dark-blue&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Shiza Asif top languages" />
+
 <br/>
+
 <img width="74%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza Asif GitHub contribution streak" />
+
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif%27s%20Contribution%20Graph" alt="Shiza Asif GitHub contribution graph" />
+
 </div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+
 <div align="center">
+
 <h2>
 <img src="https://api.iconify.design/fa6-solid/handshake.svg?color=%2339D353" width="25" alt="" />
 &nbsp;Let's Build Something Useful
 </h2>
+
 <p><sub>Have a product idea, an existing platform, or a workflow that needs better engineering?<br/>I'm currently open to freelance projects and remote roles.</sub></p>
+
 <p>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Work-21262D?style=for-the-badge&logo=vercel&logoColor=F0F6FC" alt="Explore Shiza's work" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -199,6 +224,7 @@ I care about three things on every project: **clarity** — clean, readable arch
   <!-- Replace with your real Fiverr gig URL -->
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Shiza on Fiverr" /></a>
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D3320,100:0D1117&height=105&section=footer" alt="Footer decoration" />
+
 </div>
- 
