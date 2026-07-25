@@ -1,7 +1,10 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D3320,100:238636&height=200&section=header&text=Shiza%20Asif&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=58&descSize=15&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=36&lines=I+turn+product+ideas+into+shipped%2C+working+software;Full-stack+web+%E2%80%A2+Flutter+apps+%E2%80%A2+AI-powered+workflows;4%2B+years+of+clean%2C+dependable+engineering" alt="Shiza Asif professional introduction" />
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D3320,100:238636&height=220&section=header&text=Shiza%20Asif&fontSize=54&fontColor=F0F6FC&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descAlignY=48&descSize=17&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&height=36&lines=I+turn+product+ideas+into+shipped%2C+working+software;Full-stack+web+%E2%80%A2+Flutter+apps+%E2%80%A2+AI-powered+workflows;4%2B+years+of+clean%2C+dependable+engineering" alt="Shiza Asif professional introduction" />
+<sub>Full-stack engineer building web platforms, Flutter apps and AI-powered products — end to end.</sub>
+ 
+<br/><br/>
+ 
 <p>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
@@ -20,22 +23,30 @@
 <img src="https://api.iconify.design/fa6-solid/star.svg?color=%2339D353" width="22" alt="" />
 &nbsp;Why Work With Me
 </h2>
-<p align="center"><sub>Ideas are cheap. Shipped products aren't — that's the gap I close.</sub></p>
 <div align="center">
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="https://api.iconify.design/fa6-solid/compass-drafting.svg?color=%2358A6FF" width="30" alt="Clarity" /><br/><br/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:58A6FF&height=3" alt="" />
+<br/><br/>
+<img src="https://api.iconify.design/fa6-solid/compass-drafting.svg?color=%2358A6FF" width="28" alt="" />
+<br/><br/>
 <strong>Built to Be Understood</strong><br/>
 <sub>Clean architecture the next developer can read without a walkthrough.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=%2339D353" width="30" alt="Reliability" /><br/><br/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:39D353,100:39D353&height=3" alt="" />
+<br/><br/>
+<img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=%2339D353" width="28" alt="" />
+<br/><br/>
 <strong>Built to Last</strong><br/>
 <sub>Production-ready delivery, tested and stable for real users on day one.</sub>
 </td>
 <td width="33%" align="center" valign="top">
-<img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23A855F7" width="30" alt="Value" /><br/><br/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,100:A855F7&height=3" alt="" />
+<br/><br/>
+<img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23A855F7" width="28" alt="" />
+<br/><br/>
 <strong>Built for the Business</strong><br/>
 <sub>Every feature tied to an outcome, not just a closed ticket.</sub>
 </td>
@@ -166,68 +177,6 @@
 <td align="center" width="110"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="42" alt="Gmail API"/><br/><sub><b>Gmail API</b></sub></td>
 <td align="center" width="110"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="42" alt="Analytics"/><br/><sub><b>Analytics</b></sub></td>
 <td align="center" width="110"><img src="https://api.iconify.design/simple-icons/microsoftoffice.svg?color=%23D83B01" width="42" alt="MS Office"/><br/><sub><b>MS Office</b></sub></td>
-</tr>
-</table>
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-<h2 align="center">
-<img src="https://api.iconify.design/fa6-solid/diagram-project.svg?color=%2339D353" width="24" alt="" />
-&nbsp;Capability Map
-</h2>
-<div align="center">
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Frontend Engineering</strong><br/>
-<sub>Next.js · TypeScript · React · Angular · Ionic · Tailwind · Bootstrap</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Backend Development</strong><br/>
-<sub>Laravel · REST APIs · Node.js · PHP · Authentication</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Data &amp; Cloud</strong><br/>
-<sub>MySQL · Firebase · Firestore · Schema Design · Performance Tuning</sub>
-</td>
-</tr>
-<tr><td colspan="3">&nbsp;</td></tr>
-<tr>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>AI &amp; Modern Tooling</strong><br/>
-<sub>OpenAI · Claude · Gemini · OpenRouter · Ollama · Cursor</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Mobile Development</strong><br/>
-<sub>Flutter · Dart · Provider · GetX · Hive · sqflite</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Delivery &amp; Collaboration</strong><br/>
-<sub>Vercel · Hostinger · cPanel · Postman · Jira · GitLab</sub>
-</td>
-</tr>
-<tr><td colspan="3">&nbsp;</td></tr>
-<tr>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>Mobile Services</strong><br/>
-<sub>Firestore · Firebase Auth · Cloud Storage · Cloud Messaging</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/plug.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>APIs &amp; Integrations</strong><br/>
-<sub>OpenAI API · Gemini API · Gmail API · JSON Parsing · AdMob</sub>
-</td>
-<td width="33%" valign="top">
-<img src="https://api.iconify.design/fa6-solid/store.svg?color=%2339d353" width="20" alt="" />
-&nbsp;<strong>App Publishing</strong><br/>
-<sub>Android Studio · Google Play Console · ASO · APK/AAB Release</sub>
-</td>
 </tr>
 </table>
 </div>
