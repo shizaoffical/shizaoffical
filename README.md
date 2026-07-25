@@ -1,28 +1,83 @@
 <div align="center">
 
-<sub><strong>FULL STACK SOFTWARE ENGINEER · PRODUCT BUILDER · AGENTIC AI EXPLORER</strong></sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,48:161B22,100:238636&height=220&section=header&text=Shiza%20Asif&fontSize=48&fontColor=F0F6FC&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Product%20Builder%20%E2%80%A2%20Agentic%20AI%20Explorer&descAlignY=56&descSize=17&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
 
-Shiza Asif
+Building digital products from first idea to real-world release.
 
-I build complete digital products that solve real business problems.
+I’m a full-stack software engineer with 4+ years of experience building modern web platforms,Flutter mobile applications, backend systems, APIs, and AI-powered product workflows.
 
-I’m a full-stack software engineer with 4+ years of experience designing and developing modern web applications, Flutter mobile apps, backend systems, APIs, and AI-powered workflows.
-
-My work goes beyond isolated screens or features. I turn ideas into polished, reliable products—from user experience and architecture to development, integration, deployment, and continuous improvement.
-
-Currently working independently with clients and open to remote projects and collaborations.
+I work across the complete product lifecycle—planning, interface design, architecture, development,integration, deployment, and improvement—so the final result is a usable product, not disconnected code.
 
 <br/>
 
-<a href="https://shiza-asif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Explore_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a><a href="https://www.linkedin.com/in/shiza-asif-web-developerr/" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Discuss_a_Project-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiza" /></a>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_PROJECTS-238636?style=flat-square&labelColor=0D1117" alt="Open to remote projects" />
+<img src="https://img.shields.io/badge/WORKING-INDEPENDENTLY-0969DA?style=flat-square&labelColor=0D1117" alt="Working independently" />
+<img src="https://img.shields.io/badge/EXPERIENCE-4%2B_YEARS-A855F7?style=flat-square&labelColor=0D1117" alt="4+ years of experience" />
 
 <br/><br/>
 
-<sub>WEB APPLICATIONS · MOBILE APPS · BACKEND SYSTEMS · AI INTEGRATIONS · PRODUCT ENGINEERING</sub>
+<a href="https://shiza-asif-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View_Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a><a href="https://www.linkedin.com/in/shiza-asif-web-developerr/" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a><a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Start_a_Conversation-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiza" /></a>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33.33%" align="center" valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="28" alt="Product Engineering" />
+<br/><br/>
+<strong>PRODUCT ENGINEERING</strong>
+<br/><br/>
+<sub>Complete digital products built around real users, business goals, and maintainable architecture.</sub>
+<br/><br/>
+</td>
+
+<td width="33.33%" align="center" valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/code.svg?color=%2358A6FF" width="28" alt="Web and Mobile" />
+<br/><br/>
+<strong>WEB &amp; MOBILE</strong>
+<br/><br/>
+<sub>Responsive web platforms, Flutter applications, APIs, databases, and production-ready integrations.</sub>
+<br/><br/>
+</td>
+
+<td width="33.33%" align="center" valign="top">
+<br/>
+<img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%23A855F7" width="28" alt="Applied AI" />
+<br/><br/>
+<strong>APPLIED AI</strong>
+<br/><br/>
+<sub>Useful AI features and agentic workflows designed to improve products—not added as empty decoration.</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<sub><strong>CORE PRODUCT STACK</strong></sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Firebase-1A1A1A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+<img src="https://img.shields.io/badge/AI_Integrations-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Integrations" />
+
+<br/><br/>
+
+<sub>Web Applications · Mobile Products · Backend Systems · APIs · AI Integrations · Deployment</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile views" />
 
 </div>
 
