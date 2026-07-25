@@ -1,0 +1,84 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 90) rotate(90) scale(300 420)">
+      <stop offset="0%" stop-color="#1B4D2E" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(140 340) rotate(-90) scale(220 300)">
+      <stop offset="0%" stop-color="#132A46" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#1C2531"/>
+    </pattern>
+    <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#glow)"/>
+  <rect width="1200" height="360" fill="url(#glowBlue)"/>
+  <rect width="1200" height="360" fill="url(#dots)"/>
+  <rect width="1200" height="360" fill="#0D1117" fill-opacity="0.35"/>
+
+  <!-- top + bottom hairlines -->
+  <rect x="0" y="0" width="1200" height="1" fill="#21262D"/>
+  <rect x="0" y="359" width="1200" height="1" fill="#21262D"/>
+
+  <!-- ===== left: text block ===== -->
+  <g transform="translate(70,0)">
+    <!-- eyebrow -->
+    <rect x="0" y="98" width="7" height="7" fill="#39D353"/>
+    <text x="19" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#39D353">FULL-STACK SOFTWARE ENGINEER</text>
+
+    <!-- name -->
+    <text x="-2" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F0F6FC">Shiza Asif</text>
+
+    <!-- underline accent -->
+    <rect x="0" y="202" width="150" height="4" fill="#238636"/>
+
+    <!-- bio -->
+    <text x="0" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#C9D1D9">Building web platforms, Flutter apps, and AI-powered</text>
+    <text x="0" y="277" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#C9D1D9">products — end to end, for founders and product teams.</text>
+  </g>
+
+  <!-- ===== right: signature node mark ===== -->
+  <g transform="translate(960,180)">
+    <circle cx="0" cy="0" r="150" fill="none" stroke="#1C2531" stroke-width="1"/>
+
+    <!-- connecting lines from hub -->
+    <line x1="0" y1="0" x2="0" y2="-92" stroke="#30363D" stroke-width="1.5"/>
+    <line x1="0" y1="0" x2="80" y2="46" stroke="#30363D" stroke-width="1.5"/>
+    <line x1="0" y1="0" x2="-80" y2="46" stroke="#30363D" stroke-width="1.5"/>
+
+    <!-- hub -->
+    <circle cx="0" cy="0" r="30" fill="#0D1117" stroke="#F0F6FC" stroke-width="2"/>
+    <text x="0" y="6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F0F6FC" text-anchor="middle">SA</text>
+
+    <!-- node: web (top, blue) -->
+    <circle cx="0" cy="-92" r="19" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
+    <path d="M-8,-97 h16 M-8,-92 h16 M-8,-87 h16" stroke="#58A6FF" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="0" y="-124" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8B949E" text-anchor="middle">WEB</text>
+
+    <!-- node: mobile (bottom right, green) -->
+    <circle cx="80" cy="46" r="19" fill="#0D1117" stroke="#39D353" stroke-width="2"/>
+    <rect x="73" y="38" width="14" height="17" rx="2" fill="none" stroke="#39D353" stroke-width="1.5"/>
+    <text x="80" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8B949E" text-anchor="middle">MOBILE</text>
+
+    <!-- node: AI (bottom left, purple) -->
+    <circle cx="-80" cy="46" r="19" fill="#0D1117" stroke="#A855F7" stroke-width="2"/>
+    <circle cx="-80" cy="46" r="4" fill="#A855F7"/>
+    <circle cx="-80" cy="38" r="1.6" fill="#A855F7"/>
+    <circle cx="-87" cy="50" r="1.6" fill="#A855F7"/>
+    <circle cx="-73" cy="50" r="1.6" fill="#A855F7"/>
+    <text x="-80" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8B949E" text-anchor="middle">AI</text>
+  </g>
+
+</svg>
