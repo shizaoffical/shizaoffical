@@ -1,11 +1,7 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D3320,100:238636&height=200&section=header&text=Shiza%20Asif&fontSize=50&fontColor=F0F6FC&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI&descAlignY=58&descSize=15&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=36&lines=I+turn+product+ideas+into+shipped%2C+working+software;Full-stack+web+%E2%80%A2+Flutter+apps+%E2%80%A2+AI-powered+workflows;4%2B+years+of+clean%2C+dependable+engineering" alt="Shiza Asif professional introduction" />
-
 <br/>
-
 <p>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
@@ -13,69 +9,49 @@
   <!-- Replace with your real Fiverr gig URL -->
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" /></a>
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/4%2B_Years-Building_Products-0D1117?style=flat-square&labelColor=238636" alt="4+ years building products" />
   <img src="https://img.shields.io/badge/Open_to-Remote_Work-0D1117?style=flat-square&labelColor=0969DA" alt="Open to remote work" />
   <img src="https://img.shields.io/badge/Independent-Developer-0D1117?style=flat-square&labelColor=A855F7" alt="Independent developer" />
 </p>
-
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-solid/star.svg?color=%2339D353" width="22" alt="" />
 &nbsp;Why Work With Me
 </h2>
-
-<p align="center"><sub>Four years of turning "what if we built..." into things people actually use.</sub></p>
-
-<p align="center">
-<em>Ideas are cheap. Shipped products aren't. That's the gap I close — <br/>
-taking a concept from a rough sketch to something live, stable, and used by real people.</em>
-</p>
-
-<br/>
-
+<p align="center"><sub>Ideas are cheap. Shipped products aren't — that's the gap I close.</sub></p>
 <div align="center">
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/fa6-solid/compass-drafting.svg?color=%2358A6FF" width="30" alt="Clarity" /><br/><br/>
 <strong>Built to Be Understood</strong><br/>
-<sub>Clean, readable architecture other developers can pick up without a translator.</sub>
+<sub>Clean architecture the next developer can read without a walkthrough.</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/fa6-solid/shield-halved.svg?color=%2339D353" width="30" alt="Reliability" /><br/><br/>
 <strong>Built to Last</strong><br/>
-<sub>Production-ready delivery — tested, stable, and ready for real users on day one.</sub>
+<sub>Production-ready delivery, tested and stable for real users on day one.</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <img src="https://api.iconify.design/fa6-solid/bullseye.svg?color=%23A855F7" width="30" alt="Value" /><br/><br/>
 <strong>Built for the Business</strong><br/>
-<sub>Every feature ties back to a real outcome, not just a ticket getting closed.</sub>
+<sub>Every feature tied to an outcome, not just a closed ticket.</sub>
 </td>
 </tr>
 </table>
 </div>
-
-<br/>
-
-<p align="center"><sub>Apps live on the Play Store. Platforms live in production. AI woven into real workflows — not demos.</sub></p>
-
 <p align="center"><sub><strong>DISCOVER</strong> &nbsp;→&nbsp; <strong>DESIGN</strong> &nbsp;→&nbsp; <strong>BUILD</strong> &nbsp;→&nbsp; <strong>SHIP</strong></sub></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-solid/toolbox.svg?color=%2339D353" width="24" alt="" />
 &nbsp;Technical Expertise
 </h2>
-
-<p align="center"><sub>Technologies I use across design, development, integration and delivery.</sub></p>
-
-<h3 align="center">🖥️ Frontend</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/display.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;Frontend
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -98,8 +74,10 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
-<h3 align="center">⚙️ Backend</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;Backend
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -109,8 +87,10 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
-<h3 align="center">☁️ Databases &amp; Cloud</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;Databases &amp; Cloud
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -122,8 +102,10 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
-<h3 align="center">📱 Mobile</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;Mobile
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -135,8 +117,10 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
-<h3 align="center">🤖 AI &amp; Modern Tooling</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;AI &amp; Modern Tooling
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -159,8 +143,10 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
-<h3 align="center">🛠️ Tools &amp; Delivery</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2358A6FF" width="16" alt="" />
+&nbsp;Tools &amp; Delivery
+</h3>
 <div align="center">
 <table>
 <tr>
@@ -183,40 +169,118 @@ taking a concept from a rough sketch to something live, stable, and used by real
 </tr>
 </table>
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-
+<h2 align="center">
+<img src="https://api.iconify.design/fa6-solid/diagram-project.svg?color=%2339D353" width="24" alt="" />
+&nbsp;Capability Map
+</h2>
+<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/code.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Frontend Engineering</strong><br/>
+<sub>Next.js · TypeScript · React · Angular · Ionic · Tailwind · Bootstrap</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Backend Development</strong><br/>
+<sub>Laravel · REST APIs · Node.js · PHP · Authentication</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Data &amp; Cloud</strong><br/>
+<sub>MySQL · Firebase · Firestore · Schema Design · Performance Tuning</sub>
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>AI &amp; Modern Tooling</strong><br/>
+<sub>OpenAI · Claude · Gemini · OpenRouter · Ollama · Cursor</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Mobile Development</strong><br/>
+<sub>Flutter · Dart · Provider · GetX · Hive · sqflite</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/rocket.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Delivery &amp; Collaboration</strong><br/>
+<sub>Vercel · Hostinger · cPanel · Postman · Jira · GitLab</sub>
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/cloud.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>Mobile Services</strong><br/>
+<sub>Firestore · Firebase Auth · Cloud Storage · Cloud Messaging</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/plug.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>APIs &amp; Integrations</strong><br/>
+<sub>OpenAI API · Gemini API · Gmail API · JSON Parsing · AdMob</sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://api.iconify.design/fa6-solid/store.svg?color=%2339d353" width="20" alt="" />
+&nbsp;<strong>App Publishing</strong><br/>
+<sub>Android Studio · Google Play Console · ASO · APK/AAB Release</sub>
+</td>
+</tr>
+</table>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+<h2 align="center">
+<img src="https://api.iconify.design/fa6-solid/crosshairs.svg?color=%2339D353" width="24" alt="" />
+&nbsp;Current Focus
+</h2>
+<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/laptop-code.svg?color=%2339d353" width="24" alt="" /><br/><br/>
+<strong>Full-Stack Products</strong><br/>
+<sub>Web platforms from interface to API.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/mobile-screen.svg?color=%2339d353" width="20" alt="" /><br/><br/>
+<strong>Mobile Apps</strong><br/>
+<sub>Flutter builds ready for real users.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%2339d353" width="22" alt="" /><br/><br/>
+<strong>Agentic AI</strong><br/>
+<sub>Intelligence embedded into workflows.</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/fa6-solid/layer-group.svg?color=%2339d353" width="22" alt="" /><br/><br/>
+<strong>Clean Architecture</strong><br/>
+<sub>Systems designed to scale with the product.</sub>
+</td>
+</tr>
+</table>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
 <h2 align="center">
 <img src="https://api.iconify.design/fa6-brands/github.svg?color=%23F0F6FC" width="25" alt="" />
 &nbsp;GitHub Activity
 </h2>
-
-<p align="center"><sub>Consistent work, practical experimentation and continuous improvement.</sub></p>
-
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shizaoffical&show_icons=true&theme=github-dark-blue&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9" alt="Shiza Asif GitHub stats" />
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizaoffical&layout=compact&theme=github-dark-blue&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Shiza Asif top languages" />
-
 <br/>
-
 <img width="74%" src="https://streak-stats.demolab.com?user=shizaoffical&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Shiza Asif GitHub contribution streak" />
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shizaoffical&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=0E4429&hide_border=true&custom_title=Shiza%20Asif%27s%20Contribution%20Graph" alt="Shiza Asif GitHub contribution graph" />
-
 </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-
 <div align="center">
-
 <h2>
 <img src="https://api.iconify.design/fa6-solid/handshake.svg?color=%2339D353" width="25" alt="" />
 &nbsp;Let's Build Something Useful
 </h2>
-
-<p><sub>Have a product idea, an existing platform, or a workflow that needs better engineering?<br/>I'm currently open to freelance projects and remote roles.</sub></p>
-
+<p><sub>Open to freelance projects and remote roles.</sub></p>
 <p>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Explore_Work-21262D?style=for-the-badge&logo=vercel&logoColor=F0F6FC" alt="Explore Shiza's work" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/Connect-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
@@ -224,7 +288,5 @@ taking a concept from a rough sketch to something live, stable, and used by real
   <!-- Replace with your real Fiverr gig URL -->
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Hire_Me_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire Shiza on Fiverr" /></a>
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D3320,100:0D1117&height=105&section=footer" alt="Footer decoration" />
-
 </div>
