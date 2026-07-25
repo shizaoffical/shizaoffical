@@ -1,8 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:0D3320,100:238636&height=220&section=header&text=Shiza%20Asif&fontSize=54&fontColor=F0F6FC&fontAlignY=32&desc=Full%20Stack%20Software%20Engineer&descAlignY=48&descSize=17&animation=fadeIn" alt="Shiza Asif — Full Stack Software Engineer" />
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&repeat=true&width=780&height=36&lines=I+turn+product+ideas+into+shipped%2C+working+software;Full-stack+web+%E2%80%A2+Flutter+apps+%E2%80%A2+AI-powered+workflows;4%2B+years+of+clean%2C+dependable+engineering" alt="Shiza Asif professional introduction" />
-<sub>Full-stack engineer building web platforms, Flutter apps and AI-powered products — end to end.</sub>
- 
+<img width="100%" src="assets/hero.svg" alt="Shiza Asif — Full Stack Software Engineer" />
 <br/><br/>
  
 <p>
@@ -271,4 +268,3 @@
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,45:0D3320,100:0D1117&height=105&section=footer" alt="Footer decoration" />
 </div>
- 
