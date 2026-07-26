@@ -20,41 +20,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
 
-<h2 align="center">
-<img src="https://api.iconify.design/fa6-solid/star.svg?color=%2339D353" width="22" alt="" />
-&nbsp;Why Work With Me
-</h2>
 
-<div align="center">
-<table width="100%" cellpadding="0" cellspacing="12">
-<tr>
-<td width="33%" align="center" valign="top" bgcolor="#0F2036">
-<br/>
-<img src="/chip-understood.svg" width="56" alt="" />
-<br/><br/>
-<strong>Built to Be Understood</strong><br/><br/>
-<sub>Clean architecture the next developer can read without a walkthrough.</sub>
-<br/><br/>
-</td>
-<td width="33%" align="center" valign="top" bgcolor="#0F2A1B">
-<br/>
-<img src="/chip-lasting.svg" width="56" alt="" />
-<br/><br/>
-<strong>Built to Last</strong><br/><br/>
-<sub>Production-ready delivery, tested and stable for real users on day one.</sub>
-<br/><br/>
-</td>
-<td width="33%" align="center" valign="top" bgcolor="#211430">
-<br/>
-<img src="/chip-business.svg" width="56" alt="" />
-<br/><br/>
-<strong>Built for the Business</strong><br/><br/>
-<sub>Every feature tied to an outcome, not just a closed ticket.</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-</div>
 
 <p align="center"><sub><strong>DISCOVER</strong> &nbsp;→&nbsp; <strong>DESIGN</strong> &nbsp;→&nbsp; <strong>BUILD</strong> &nbsp;→&nbsp; <strong>SHIP</strong></sub></p>
 
