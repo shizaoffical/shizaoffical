@@ -29,105 +29,105 @@
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
 <td width="20%" rowspan="2" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/display.svg?color=%2339D353" width="25" alt="" /><br/><br/>
+<img src="https://api.iconify.design/fa6-solid/display.svg?color=%2339D353" width="20" alt="" /><br/>
 <strong>Frontend</strong>
 </td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br/><sub><b>&emsp;&emsp;HTML5&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3"/><br/><sub><b>&emsp;&emsp;CSS3&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br/><sub><b>&emsp;&emsp;JavaScript&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/><br/><sub><b>&emsp;&emsp;TypeScript&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React"/><br/><sub><b>&emsp;&emsp;React.js&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/><br/><sub><b>&emsp;&emsp;Next.js&emsp;&emsp;</b></sub></td>
-<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="40" alt="Angular"/><br/><sub><b>&emsp;&emsp;Angular&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="31" alt="HTML5"/><br/><sub><b>&emsp;&emsp;HTML5&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="31" alt="CSS3"/><br/><sub><b>&emsp;&emsp;CSS3&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="31" alt="JavaScript"/><br/><sub><b>&emsp;&emsp;JavaScript&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="31" alt="TypeScript"/><br/><sub><b>&emsp;&emsp;TypeScript&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="31" alt="React"/><br/><sub><b>&emsp;&emsp;React.js&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="31" alt="Next.js"/><br/><sub><b>&emsp;&emsp;Next.js&emsp;&emsp;</b></sub></td>
+<td width="11.43%" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="31" alt="Angular"/><br/><sub><b>&emsp;&emsp;Angular&emsp;&emsp;</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="40" alt="Ionic"/><br/><sub><b>&emsp;&emsp;Ionic&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind"/><br/><sub><b>&emsp;&emsp;Tailwind&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/><br/><sub><b>&emsp;&emsp;Bootstrap&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" alt="jQuery"/><br/><sub><b>&emsp;&emsp;jQuery&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" width="31" alt="Ionic"/><br/><sub><b>&emsp;&emsp;Ionic&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="31" alt="Tailwind"/><br/><sub><b>&emsp;&emsp;Tailwind&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="31" alt="Bootstrap"/><br/><sub><b>&emsp;&emsp;Bootstrap&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="31" alt="jQuery"/><br/><sub><b>&emsp;&emsp;jQuery&emsp;&emsp;</b></sub></td>
 <td></td><td></td><td></td>
 </tr>
 
 <tr>
 <td width="20%" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="25" alt="" /><br/><br/>
+<img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="20" alt="" /><br/>
 <strong>Backend</strong>
 </td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" alt="PHP"/><br/><sub><b>&emsp;&emsp;PHP&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" alt="Laravel"/><br/><sub><b>&emsp;&emsp;Laravel&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/><br/><sub><b>&emsp;&emsp;Node.js&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="31" alt="PHP"/><br/><sub><b>&emsp;&emsp;PHP&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="31" alt="Laravel"/><br/><sub><b>&emsp;&emsp;Laravel&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="31" alt="Node.js"/><br/><sub><b>&emsp;&emsp;Node.js&emsp;&emsp;</b></sub></td>
 <td></td><td></td><td></td><td></td>
 </tr>
 
 <tr>
 <td width="20%" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="25" alt="" /><br/><br/>
-<strong>Databases<br/>&amp; Cloud</strong>
+<img src="https://api.iconify.design/fa6-solid/database.svg?color=%2339D353" width="20" alt="" /><br/>
+<strong>Databases &amp; Cloud</strong>
 </td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/><br/><sub><b>&emsp;&emsp;MySQL&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/><br/><sub><b>&emsp;&emsp;SQLite&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" alt="Firebase"/><br/><sub><b>&emsp;&emsp;Firebase&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%233FCF8E" width="40" alt="Supabase"/><br/><sub><b>&emsp;&emsp;Supabase&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" alt="Vercel"/><br/><sub><b>&emsp;&emsp;Vercel&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="31" alt="MySQL"/><br/><sub><b>&emsp;&emsp;MySQL&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="31" alt="SQLite"/><br/><sub><b>&emsp;&emsp;SQLite&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="31" alt="Firebase"/><br/><sub><b>&emsp;&emsp;Firebase&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%233FCF8E" width="31" alt="Supabase"/><br/><sub><b>&emsp;&emsp;Supabase&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="31" alt="Vercel"/><br/><sub><b>&emsp;&emsp;Vercel&emsp;&emsp;</b></sub></td>
 <td></td><td></td>
 </tr>
 
 <tr>
 <td width="20%" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2358A6FF" width="25" alt="" /><br/><br/>
+<img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2358A6FF" width="20" alt="" /><br/>
 <strong>Mobile</strong>
 </td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" alt="Dart"/><br/><sub><b>&emsp;&emsp;Dart&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/><br/><sub><b>&emsp;&emsp;Flutter&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/><br/><sub><b>&emsp;&emsp;Android Studio&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleplay.svg?color=%2334A853" width="40" alt="Google Play"/><br/><sub><b>&emsp;&emsp;Google Play&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleadmob.svg?color=%23EA4335" width="40" alt="AdMob"/><br/><sub><b>&emsp;&emsp;AdMob&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="31" alt="Dart"/><br/><sub><b>&emsp;&emsp;Dart&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="31" alt="Flutter"/><br/><sub><b>&emsp;&emsp;Flutter&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="31" alt="Android Studio"/><br/><sub><b>&emsp;&emsp;Android Studio&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleplay.svg?color=%2334A853" width="31" alt="Google Play"/><br/><sub><b>&emsp;&emsp;Google Play&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleadmob.svg?color=%23EA4335" width="31" alt="AdMob"/><br/><sub><b>&emsp;&emsp;AdMob&emsp;&emsp;</b></sub></td>
 <td></td><td></td>
 </tr>
 
 <tr>
 <td width="20%" rowspan="2" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="25" alt="" /><br/><br/>
-<strong>AI &amp; Modern<br/>Tooling</strong>
+<img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="20" alt="" /><br/>
+<strong>AI &amp; Modern Tooling</strong>
 </td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="40" alt="OpenAI"/><br/><sub><b>&emsp;&emsp;OpenAI&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" width="40" alt="Gemini"/><br/><sub><b>&emsp;&emsp;Gemini&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="40" alt="Claude"/><br/><sub><b>&emsp;&emsp;Claude&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23C9D1D9" width="40" alt="Ollama"/><br/><sub><b>&emsp;&emsp;Ollama&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="40" alt="Cursor"/><br/><sub><b>&emsp;&emsp;Cursor&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/fa6-solid/terminal.svg?color=%2300A67E" width="40" alt="Trae"/><br/><sub><b>&emsp;&emsp;Trae&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/openrouter.svg?color=%236467F2" width="40" alt="OpenRouter"/><br/><sub><b>&emsp;&emsp;OpenRouter&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="OpenAI"/><br/><sub><b>&emsp;&emsp;OpenAI&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googlegemini.svg?color=%238E75B2" width="31" alt="Gemini"/><br/><sub><b>&emsp;&emsp;Gemini&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757" width="31" alt="Claude"/><br/><sub><b>&emsp;&emsp;Claude&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/ollama.svg?color=%23C9D1D9" width="31" alt="Ollama"/><br/><sub><b>&emsp;&emsp;Ollama&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/cursor.svg?color=%23C9D1D9" width="31" alt="Cursor"/><br/><sub><b>&emsp;&emsp;Cursor&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/fa6-solid/terminal.svg?color=%2300A67E" width="31" alt="Trae"/><br/><sub><b>&emsp;&emsp;Trae&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/openrouter.svg?color=%236467F2" width="31" alt="OpenRouter"/><br/><sub><b>&emsp;&emsp;OpenRouter&emsp;&emsp;</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://api.iconify.design/fa6-solid/cube.svg?color=%236B57FF" width="40" alt="Kiro"/><br/><sub><b>&emsp;&emsp;Kiro&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%234285F4" width="40" alt="Antigravity"/><br/><sub><b>&emsp;&emsp;Antigravity&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="40" alt="Codex"/><br/><sub><b>&emsp;&emsp;Codex&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="40" alt="Cline"/><br/><sub><b>&emsp;&emsp;Cline&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/fa6-solid/code.svg?color=%23A855F7" width="40" alt="Qoder"/><br/><sub><b>&emsp;&emsp;Qoder&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/fa6-solid/cube.svg?color=%236B57FF" width="31" alt="Kiro"/><br/><sub><b>&emsp;&emsp;Kiro&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/fa6-solid/wand-magic-sparkles.svg?color=%234285F4" width="31" alt="Antigravity"/><br/><sub><b>&emsp;&emsp;Antigravity&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="Codex"/><br/><sub><b>&emsp;&emsp;Codex&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="31" alt="Cline"/><br/><sub><b>&emsp;&emsp;Cline&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/fa6-solid/code.svg?color=%23A855F7" width="31" alt="Qoder"/><br/><sub><b>&emsp;&emsp;Qoder&emsp;&emsp;</b></sub></td>
 <td></td><td></td>
 </tr>
 
 <tr>
 <td width="20%" rowspan="2" align="center" valign="middle">
-<img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2358A6FF" width="25" alt="" /><br/><br/>
-<strong>Tools &amp;<br/>Delivery</strong>
+<img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2358A6FF" width="20" alt="" /><br/>
+<strong>Tools &amp; Delivery</strong>
 </td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/><br/><sub><b>&emsp;&emsp;Git&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" alt="GitHub"/><br/><sub><b>&emsp;&emsp;GitHub&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40" alt="GitLab"/><br/><sub><b>&emsp;&emsp;GitLab&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma"/><br/><sub><b>&emsp;&emsp;Figma&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/><br/><sub><b>&emsp;&emsp;VS Code&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" alt="Postman"/><br/><sub><b>&emsp;&emsp;Postman&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" alt="Jira"/><br/><sub><b>&emsp;&emsp;Jira&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="31" alt="Git"/><br/><sub><b>&emsp;&emsp;Git&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="31" alt="GitHub"/><br/><sub><b>&emsp;&emsp;GitHub&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="31" alt="GitLab"/><br/><sub><b>&emsp;&emsp;GitLab&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="31" alt="Figma"/><br/><sub><b>&emsp;&emsp;Figma&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="31" alt="VS Code"/><br/><sub><b>&emsp;&emsp;VS Code&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="31" alt="Postman"/><br/><sub><b>&emsp;&emsp;Postman&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="31" alt="Jira"/><br/><sub><b>&emsp;&emsp;Jira&emsp;&emsp;</b></sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="40" alt="Slack"/><br/><sub><b>&emsp;&emsp;Slack&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/hostinger.svg?color=%23673DE6" width="40" alt="Hostinger"/><br/><sub><b>&emsp;&emsp;Hostinger&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/cpanel.svg?color=%23FF6C2C" width="40" alt="cPanel"/><br/><sub><b>&emsp;&emsp;cPanel&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/filezilla.svg?color=%23BF0000" width="40" alt="FileZilla"/><br/><sub><b>&emsp;&emsp;FileZilla&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="40" alt="Gmail API"/><br/><sub><b>&emsp;&emsp;Gmail API&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="40" alt="Analytics"/><br/><sub><b>&emsp;&emsp;Analytics&emsp;&emsp;</b></sub></td>
-<td align="center"><img src="https://api.iconify.design/simple-icons/microsoftoffice.svg?color=%23D83B01" width="40" alt="MS Office"/><br/><sub><b>&emsp;&emsp;MS Office&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="31" alt="Slack"/><br/><sub><b>&emsp;&emsp;Slack&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/hostinger.svg?color=%23673DE6" width="31" alt="Hostinger"/><br/><sub><b>&emsp;&emsp;Hostinger&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/cpanel.svg?color=%23FF6C2C" width="31" alt="cPanel"/><br/><sub><b>&emsp;&emsp;cPanel&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/filezilla.svg?color=%23BF0000" width="31" alt="FileZilla"/><br/><sub><b>&emsp;&emsp;FileZilla&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="31" alt="Gmail API"/><br/><sub><b>&emsp;&emsp;Gmail API&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/googleanalytics.svg?color=%23E37400" width="31" alt="Analytics"/><br/><sub><b>&emsp;&emsp;Analytics&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/microsoftoffice.svg?color=%23D83B01" width="31" alt="MS Office"/><br/><sub><b>&emsp;&emsp;MS Office&emsp;&emsp;</b></sub></td>
 </tr>
 </table>
 
