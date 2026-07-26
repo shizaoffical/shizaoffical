@@ -34,15 +34,19 @@
 
   <!-- ===== left: text block ===== -->
   <g transform="translate(70,0)">
-    <!-- eyebrow -->
-    <rect x="0" y="98" width="7" height="7" fill="#39D353"/>
-    <text x="19" y="105" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#39D353">FULL-STACK SOFTWARE ENGINEER</text>
+    <!-- eyebrow: tri-color dot cluster ties the 3 brand accents into the hero -->
+    <circle cx="4" cy="95" r="4" fill="#58A6FF"/>
+    <circle cx="16" cy="95" r="4" fill="#39D353"/>
+    <circle cx="28" cy="95" r="4" fill="#A855F7"/>
+    <text x="40" y="99" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.5" fill="#8B949E">FULL-STACK SOFTWARE ENGINEER</text>
 
     <!-- name -->
     <text x="-2" y="182" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#F0F6FC">Shiza Asif</text>
 
-    <!-- underline accent -->
-    <rect x="0" y="202" width="150" height="4" fill="#238636"/>
+    <!-- underline accent: segmented tri-color bar -->
+    <rect x="0" y="202" width="50" height="4" fill="#58A6FF"/>
+    <rect x="54" y="202" width="50" height="4" fill="#39D353"/>
+    <rect x="108" y="202" width="50" height="4" fill="#A855F7"/>
 
     <!-- bio -->
     <text x="0" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#C9D1D9">Building web platforms, Flutter apps, and AI-powered</text>
