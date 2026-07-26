@@ -19,11 +19,6 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
-
-
-
-<p align="center"><sub><strong>DISCOVER</strong> &nbsp;→&nbsp; <strong>DESIGN</strong> &nbsp;→&nbsp; <strong>BUILD</strong> &nbsp;→&nbsp; <strong>SHIP</strong></sub></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
 
 <h2 align="center">
