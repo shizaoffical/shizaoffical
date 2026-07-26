@@ -28,11 +28,11 @@
 
 <table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/display.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>Frontend</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
@@ -55,15 +55,12 @@
 </table>
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/server.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>Backend</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" alt="PHP"/><br/><sub><b>PHP</b></sub></td>
@@ -77,15 +74,12 @@
 </table>
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/database.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>Databases<br/>&amp; Cloud</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/><br/><sub><b>MySQL</b></sub></td>
@@ -99,15 +93,12 @@
 </table>
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/mobile-screen-button.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>Mobile</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" alt="Dart"/><br/><sub><b>Dart</b></sub></td>
@@ -121,15 +112,12 @@
 </table>
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>AI &amp; Modern<br/>Tooling</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="40" alt="OpenAI"/><br/><sub><b>OpenAI</b></sub></td>
@@ -152,15 +140,12 @@
 </table>
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="0" cellspacing="0">
 <tr>
-<td width="12%" align="center" valign="middle">
+<td width="18%" align="center" valign="middle">
 <img src="https://api.iconify.design/fa6-solid/screwdriver-wrench.svg?color=%2358A6FF" width="22" alt="" /><br/><br/>
 <strong>Tools &amp;<br/>Delivery</strong>
 </td>
-<td width="88%">
+<td width="82%">
 <table width="100%">
 <tr>
 <td align="center" width="14.28%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" alt="Git"/><br/><sub><b>Git</b></sub></td>
