@@ -45,7 +45,9 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="31" alt="Tailwind"/><br/><sub><b>&emsp;&emsp;Tailwind&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="31" alt="Bootstrap"/><br/><sub><b>&emsp;&emsp;Bootstrap&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="31" alt="jQuery"/><br/><sub><b>&emsp;&emsp;jQuery&emsp;&emsp;</b></sub></td>
-<td></td><td></td><td></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="31" alt="Vite"/><br/><sub><b>&emsp;&emsp;Vite&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="31" alt="Vue.js"/><br/><sub><b>&emsp;&emsp;Vue.js&emsp;&emsp;</b></sub></td>
+<td align="center"></td>
 </tr>
 
 <tr>
@@ -56,7 +58,10 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="31" alt="PHP"/><br/><sub><b>&emsp;&emsp;PHP&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="31" alt="Laravel"/><br/><sub><b>&emsp;&emsp;Laravel&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="31" alt="Node.js"/><br/><sub><b>&emsp;&emsp;Node.js&emsp;&emsp;</b></sub></td>
-<td></td><td></td><td></td><td></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/express.svg?color=%23F0F6FC" width="31" alt="Express.js"/><br/><sub><b>&emsp;&emsp;Express.js&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="31" alt="NestJS"/><br/><sub><b>&emsp;&emsp;NestJS&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/fastify.svg?color=%23F0F6FC" width="31" alt="Fastify"/><br/><sub><b>&emsp;&emsp;Fastify&emsp;&emsp;</b></sub></td>
+<td align="center"></td>
 </tr>
 
 <tr>
@@ -69,7 +74,8 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="31" alt="Firebase"/><br/><sub><b>&emsp;&emsp;Firebase&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://api.iconify.design/simple-icons/supabase.svg?color=%233FCF8E" width="31" alt="Supabase"/><br/><sub><b>&emsp;&emsp;Supabase&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="31" alt="Vercel"/><br/><sub><b>&emsp;&emsp;Vercel&emsp;&emsp;</b></sub></td>
-<td></td><td></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="31" alt="PostgreSQL"/><br/><sub><b>&emsp;&emsp;PostgreSQL&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="31" alt="MongoDB"/><br/><sub><b>&emsp;&emsp;MongoDB&emsp;&emsp;</b></sub></td>
 </tr>
 
 <tr>
@@ -82,7 +88,8 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="31" alt="Android Studio"/><br/><sub><b>&emsp;&emsp;Android Studio&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://api.iconify.design/simple-icons/googleplay.svg?color=%2334A853" width="31" alt="Google Play"/><br/><sub><b>&emsp;&emsp;Google Play&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://api.iconify.design/simple-icons/googleadmob.svg?color=%23EA4335" width="31" alt="AdMob"/><br/><sub><b>&emsp;&emsp;AdMob&emsp;&emsp;</b></sub></td>
-<td></td><td></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="31" alt="React Native"/><br/><sub><b>&emsp;React Native&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/expo.svg?color=%23F0F6FC" width="31" alt="Expo"/><br/><sub><b>&emsp;&emsp;Expo&emsp;&emsp;</b></sub></td>
 </tr>
 
 <tr>
@@ -104,7 +111,8 @@
 <td align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%2374AA9C" width="31" alt="Codex"/><br/><sub><b>&emsp;&emsp;Codex&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://api.iconify.design/fa6-solid/robot.svg?color=%2339D353" width="31" alt="Cline"/><br/><sub><b>&emsp;&emsp;Cline&emsp;&emsp;</b></sub></td>
 <td align="center"><img src="https://api.iconify.design/fa6-solid/code.svg?color=%23A855F7" width="31" alt="Qoder"/><br/><sub><b>&emsp;&emsp;Qoder&emsp;&emsp;</b></sub></td>
-<td></td><td></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/langchain.svg?color=%231C3C3C" width="31" alt="LangChain"/><br/><sub><b>&emsp;&emsp;LangChain&emsp;&emsp;</b></sub></td>
+<td align="center"><img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71" width="31" alt="n8n"/><br/><sub><b>&emsp;&emsp;n8n&emsp;&emsp;</b></sub></td>
 </tr>
 
 <tr>
