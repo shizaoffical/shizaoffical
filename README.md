@@ -12,6 +12,10 @@
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" /></a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20Views&color=39D353&style=for-the-badge" alt="Profile views" />
+</p>
+
 <br/>
 
 <img width="100%" src="/stats.svg" alt="4+ years building products, open to remote work, independent developer" />
@@ -19,6 +23,31 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
+
+<h2 align="center">
+<img src="https://api.iconify.design/fa6-solid/circle-info.svg?color=%2339D353" width="22" alt="" />
+&nbsp;Quick Facts
+</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+- 🌱 Currently leveling up in **Next.js**
+- 💬 Ask me about **JavaScript, React.js, Vue.js, jQuery, PHP, Laravel**
+- 📄 See my experience on my [**Resume**](https://drive.google.com/file/d/11O-sOeiPrnhBfrizQtUhJyz933JvL76H/view?usp=sharing)
+
+</td>
+<td width="50%" valign="top">
+
+- 📫 Reach me at **shizaasif710@gmail.com**
+- 💼 Open to **freelance projects & remote roles**
+- ⚡ Fun fact: **I think I'm funny**
+
+</td>
+</tr>
+</table>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=2" alt="" />
 
 <h2 align="center">
