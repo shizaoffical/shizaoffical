@@ -1,5 +1,7 @@
 <div align="center">
-
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20Views&color=39D353&style=for-the-badge" alt="Profile views" />
+</p>
 <img width="100%" src="/hero.svg" alt="Shiza Asif — Full Stack Software Engineer" />
 
 <br/><br/>
@@ -11,13 +13,6 @@
   <!-- Replace with your real Fiverr gig URL -->
   <a href="https://www.fiverr.com/your-fiverr-username"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Hire on Fiverr" /></a>
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20Views&color=39D353&style=for-the-badge" alt="Profile views" />
-</p>
-
-<br/>
-
 <img width="100%" src="/stats.svg" alt="4+ years building products, open to remote work, independent developer" />
 
 </div>
