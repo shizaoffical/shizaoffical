@@ -7,7 +7,7 @@
 <br/><br/>
 
 <p>
-  <a href="https://drive.google.com/file/d/1gjDcOvJDU_T4WeEsBobPltSyd903Ynd7/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
+  <a href="https://drive.google.com/file/d/1gjDcOvJDU_T4WeEsBobPltSyd903Ynd7/view"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiza" /></a>
