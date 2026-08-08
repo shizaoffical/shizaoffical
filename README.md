@@ -1,3 +1,37 @@
+ChatGPT Plus
+
+
+
+
+
+
+
+
+
+
+
+
+Weekly limit
+3% remaining
+
+
+Pasted text(20260808-133327).txt
+Document
+ in this file update the resume link with this https://drive.google.com/file/d/1axV23199Yyg1NN-YuKQfACZ8NRZ4O_UM/view?usp=sharing
+
+Worked for 54s
+Updated the resume link successfully. Everything else remains unchanged.
+
+Download the updated file
+
+
+Pasted text(20260808-133327).txt
+Document
+
+
+Pasted text(20260808-133327).txt
+
+
 <div align="center">
 <p>
   <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile views" />
@@ -7,7 +41,7 @@
 <br/><br/>
 
 <p>
-  <a href="https://drive.google.com/file/d/1gjDcOvJDU_T4WeEsBobPltSyd903Ynd7/view"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
+  <a href="https://drive.google.com/file/d/1axV23199Yyg1NN-YuKQfACZ8NRZ4O_UM/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-21262D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" /></a>
   <a href="https://shiza-asif-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shiza-asif-web-developerr/"><img src="https://img.shields.io/badge/LinkedIn-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
   <a href="mailto:shizaasif710@gmail.com"><img src="https://img.shields.io/badge/Email-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiza" /></a>
