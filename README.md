@@ -1,37 +1,3 @@
-ChatGPT Plus
-
-
-
-
-
-
-
-
-
-
-
-
-Weekly limit
-3% remaining
-
-
-Pasted text(20260808-133327).txt
-Document
- in this file update the resume link with this https://drive.google.com/file/d/1axV23199Yyg1NN-YuKQfACZ8NRZ4O_UM/view?usp=sharing
-
-Worked for 54s
-Updated the resume link successfully. Everything else remains unchanged.
-
-Download the updated file
-
-
-Pasted text(20260808-133327).txt
-Document
-
-
-Pasted text(20260808-133327).txt
-
-
 <div align="center">
 <p>
   <img src="https://komarev.com/ghpvc/?username=shizaoffical&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile views" />
